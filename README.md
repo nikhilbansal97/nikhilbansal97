@@ -21,5 +21,5 @@ I am an **Android Engineer**, **technical writer** and an **open-source fanatic*
 ## 📢 Talks
 1. [Kotlin in a Java Universe Interoperability: GDG Hyderabad DevFest 2019](https://twitter.com/nikhilbansal97/status/1182370192061419520)
 
-## Interested i
+## Interested in
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
