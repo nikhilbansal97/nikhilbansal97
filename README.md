@@ -13,7 +13,7 @@ I am an **Android Engineer**, **technical writer** and an **open-source fanatic*
 * 📝 Read my articles @[Medium](https://medium.com/@nikhil97.nb)
 * 👨🏻‍✈️ Contributing and maintaining open-source repositories.
 
-## 📝 Blog Posts
+## ✍🏻 Blog Posts
 1. [Demystifying VPN Tunnels](https://medium.com/@nikhil97.nb/demystifying-vpn-tunnels-d3fe694de721)
 2. [Building Swiggy Offer Animation on Android](https://medium.com/mindorks/building-swiggy-offer-animation-on-android-e3247c6f0a28)
 3. [Implementing Exoplayer for Beginners in Kotlin](https://medium.com/mindorks/implementing-exoplayer-for-beginners-in-kotlin-c534706bce4b)
