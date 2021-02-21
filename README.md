@@ -1,7 +1,8 @@
 <a href="https://www.linkedin.com/in/nikhilbansal97" target="_blank" rel="nofollow"><img align="right" alt="Nikhil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/nikhilbansal97" target="_blank" rel="nofollow"><img align="right" alt="Nikhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
-## Hi 👋, I am Nikhil! 
+## Hi 👋, I am Nikhil!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilbansal97.nikhilbansal97)
 
 
 I am an **Android Engineer**, **technical writer** and an **open-source fanatic**.
