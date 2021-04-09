@@ -8,7 +8,7 @@
 I am an **Android Engineer**, **technical writer** and an **open-source fanatic**.
 
 ## 👨🏻‍💻 About Me
-* 💻 Working as **Android Engineer** @[Mutual Mobile](https://mutualmobile.com/)
+* 💻 Working as **Android Engineer** @[Zeta Suite](https://www.zeta.tech/in)
 * 👨🏻‍🎓 Technical Speaker @[GDG Hyderabad](https://twitter.com/nikhilbansal97/status/1182370192061419520)
 * 👨🏻‍💻 Mentor and Reviewer @[Udacity](https://www.udacity.com/)
 * 📝 Read my articles @[Medium](https://medium.com/@nikhil97.nb)
