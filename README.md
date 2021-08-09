@@ -3,6 +3,7 @@
 
 ## Hi 👋, I am Nikhil a.k.a Muxy!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilbansal97.nikhilbansal97)
+![Twitter](https://img.shields.io/twitter/follow/nikhilbansal97?style=social)
 
 
 I am an **Android Engineer**, **technical writer** and an **open-source fanatic**.
