@@ -19,6 +19,7 @@ I am an **Android Engineer**, **technical writer** and an **open-source fanatic*
 1. [Demystifying VPN Tunnels](https://medium.com/@nikhil97.nb/demystifying-vpn-tunnels-d3fe694de721)
 2. [Building Swiggy Offer Animation on Android](https://medium.com/mindorks/building-swiggy-offer-animation-on-android-e3247c6f0a28)
 3. [Implementing Exoplayer for Beginners in Kotlin](https://medium.com/mindorks/implementing-exoplayer-for-beginners-in-kotlin-c534706bce4b)
+4. [Storage Model | Android 101](https://proandroiddev.com/storage-model-android-101-26bc8aef9609)
 
 ## 📢 Talks
 1. [Kotlin in a Java Universe Interoperability: GDG Hyderabad DevFest 2019](https://twitter.com/nikhilbansal97/status/1182370192061419520)
